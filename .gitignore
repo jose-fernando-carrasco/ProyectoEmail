@@ -1,0 +1,37 @@
+# Compiled class files
+*.class
+
+# Libraries
+/lib/
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+
+# IDE specific files (NetBeans)
+/nb-configuration.xml
+/nb-gradle.xml
+/nbmetadata/
+
+# Maven specific files
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle specific files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+/build/
+
+# Compiled files for old versions of Java
+*.javac.*
+*.class
